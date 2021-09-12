@@ -7,12 +7,13 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* [https://github.com/ArtemiiShimanovich/java-1-1/issues](Bug_Money_Transfer)
+* [Bug_Money_Transfer](https://github.com/ArtemiiShimanovich/java-1-1/issues)
 
 
 ## Описание процесса тестирования
 
-В качестве тестовых данных использовались данные  [https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md#%D0%BB%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D0%B0] (Задание 1) 
+В качестве тестовых данных использовались данные 
+* [Задание 1](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md#%D0%BB%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D0%B0)
 * текущий баланс счёта клиента - переменная типа int, значение int current = 2_000_000_000 (два миллиарда рублей);
 * сумма перевода - переменная типа int, значение int transfer = 500_000_000 (пятьсот миллионов рублей);
 * переменная для хранения итогового значения - тип int total.
