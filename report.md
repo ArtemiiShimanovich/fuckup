@@ -7,7 +7,7 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* [Bug_Money_Transfer](https://github.com/ArtemiiShimanovich/java-1-1/issues)
+* [Bug_Money_Transfer](https://github.com/ArtemiiShimanovich/Java-1/issues/1)
 
 
 ## Описание процесса тестирования
